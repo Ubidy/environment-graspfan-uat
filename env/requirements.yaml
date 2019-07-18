@@ -60,7 +60,7 @@ dependencies:
   version: 0.1.43
 - name: ubidy-messengerapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.20
+  version: 0.1.21
 - name: ubidy-opportunitiesapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.61
