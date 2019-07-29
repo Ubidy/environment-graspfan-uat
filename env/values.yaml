@@ -62,3 +62,5 @@ ubidy-messengerapi:
   environment: uat
 ubidy-backofficeapi:
   environment: uat
+ubidy-employercandidatecenterapi:
+  environment: uat
