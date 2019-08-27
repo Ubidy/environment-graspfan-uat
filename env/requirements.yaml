@@ -69,4 +69,4 @@ dependencies:
   version: 0.1.29
 - name: ubidy-opportunitiesapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.102
+  version: 0.0.103
