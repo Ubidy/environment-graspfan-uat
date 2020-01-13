@@ -48,7 +48,7 @@ dependencies:
   version: 2.1.83
 - name: ubidy-employercandidatecenterapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.27
+  version: 0.0.28
 - name: ubidy-employeremailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.88
